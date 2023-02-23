@@ -1,0 +1,1333 @@
+Maille,Maille_X,Maille_Y,ADM1_ES,ADM1_PCODE
+123,23,3,Jutiapa,GT22
+123,23,3,Santa Rosa,GT06
+124,24,3,Jutiapa,GT22
+125,25,3,Jutiapa,GT22
+170,20,4,Santa Rosa,GT06
+171,21,4,Santa Rosa,GT06
+172,22,4,Santa Rosa,GT06
+173,23,4,Jutiapa,GT22
+173,23,4,Santa Rosa,GT06
+174,24,4,Jutiapa,GT22
+175,25,4,Jutiapa,GT22
+211,11,5,Escuintla,GT05
+212,12,5,Escuintla,GT05
+213,13,5,Escuintla,GT05
+214,14,5,Escuintla,GT05
+215,15,5,Escuintla,GT05
+216,16,5,Escuintla,GT05
+217,17,5,Escuintla,GT05
+218,18,5,Escuintla,GT05
+219,19,5,Escuintla,GT05
+219,19,5,Santa Rosa,GT06
+220,20,5,Santa Rosa,GT06
+221,21,5,Santa Rosa,GT06
+222,22,5,Santa Rosa,GT06
+223,23,5,Jutiapa,GT22
+223,23,5,Santa Rosa,GT06
+224,24,5,Jutiapa,GT22
+224,24,5,Santa Rosa,GT06
+225,25,5,Jutiapa,GT22
+226,26,5,Jutiapa,GT22
+259,9,6,Suchitepéquez,GT10
+260,10,6,Escuintla,GT05
+260,10,6,Suchitepéquez,GT10
+261,11,6,Escuintla,GT05
+262,12,6,Escuintla,GT05
+263,13,6,Escuintla,GT05
+264,14,6,Escuintla,GT05
+265,15,6,Escuintla,GT05
+266,16,6,Escuintla,GT05
+267,17,6,Escuintla,GT05
+268,18,6,Escuintla,GT05
+269,19,6,Escuintla,GT05
+269,19,6,Santa Rosa,GT06
+270,20,6,Santa Rosa,GT06
+271,21,6,Santa Rosa,GT06
+272,22,6,Santa Rosa,GT06
+273,23,6,Jutiapa,GT22
+273,23,6,Santa Rosa,GT06
+274,24,6,Jutiapa,GT22
+274,24,6,Santa Rosa,GT06
+275,25,6,Jutiapa,GT22
+275,25,6,Santa Rosa,GT06
+276,26,6,Jutiapa,GT22
+277,27,6,Jutiapa,GT22
+278,28,6,Jutiapa,GT22
+308,8,7,Retalhuleu,GT11
+309,9,7,Retalhuleu,GT11
+309,9,7,Suchitepéquez,GT10
+310,10,7,Escuintla,GT05
+310,10,7,Suchitepéquez,GT10
+311,11,7,Escuintla,GT05
+311,11,7,Suchitepéquez,GT10
+312,12,7,Escuintla,GT05
+313,13,7,Escuintla,GT05
+314,14,7,Escuintla,GT05
+315,15,7,Escuintla,GT05
+316,16,7,Escuintla,GT05
+317,17,7,Escuintla,GT05
+318,18,7,Escuintla,GT05
+319,19,7,Escuintla,GT05
+319,19,7,Santa Rosa,GT06
+320,20,7,Escuintla,GT05
+320,20,7,Santa Rosa,GT06
+321,21,7,Santa Rosa,GT06
+322,22,7,Santa Rosa,GT06
+323,23,7,Santa Rosa,GT06
+324,24,7,Santa Rosa,GT06
+325,25,7,Jutiapa,GT22
+325,25,7,Santa Rosa,GT06
+326,26,7,Jutiapa,GT22
+327,27,7,Jutiapa,GT22
+328,28,7,Jutiapa,GT22
+329,29,7,Jutiapa,GT22
+356,6,8,Retalhuleu,GT11
+357,7,8,Retalhuleu,GT11
+358,8,8,Retalhuleu,GT11
+359,9,8,Retalhuleu,GT11
+359,9,8,Suchitepéquez,GT10
+360,10,8,Suchitepéquez,GT10
+361,11,8,Escuintla,GT05
+361,11,8,Suchitepéquez,GT10
+362,12,8,Escuintla,GT05
+362,12,8,Suchitepéquez,GT10
+363,13,8,Escuintla,GT05
+363,13,8,Suchitepéquez,GT10
+364,14,8,Escuintla,GT05
+364,14,8,Suchitepéquez,GT10
+365,15,8,Escuintla,GT05
+366,16,8,Escuintla,GT05
+367,17,8,Escuintla,GT05
+368,18,8,Escuintla,GT05
+369,19,8,Escuintla,GT05
+369,19,8,Guatemala,GT01
+369,19,8,Santa Rosa,GT06
+370,20,8,Escuintla,GT05
+370,20,8,Guatemala,GT01
+370,20,8,Santa Rosa,GT06
+371,21,8,Santa Rosa,GT06
+372,22,8,Santa Rosa,GT06
+373,23,8,Jutiapa,GT22
+373,23,8,Santa Rosa,GT06
+374,24,8,Jutiapa,GT22
+374,24,8,Santa Rosa,GT06
+375,25,8,Jutiapa,GT22
+375,25,8,Santa Rosa,GT06
+376,26,8,Jutiapa,GT22
+377,27,8,Jutiapa,GT22
+378,28,8,Jutiapa,GT22
+379,29,8,Jutiapa,GT22
+380,30,8,Jutiapa,GT22
+405,5,9,Retalhuleu,GT11
+406,6,9,Retalhuleu,GT11
+407,7,9,Retalhuleu,GT11
+408,8,9,Retalhuleu,GT11
+409,9,9,Retalhuleu,GT11
+409,9,9,Suchitepéquez,GT10
+410,10,9,Retalhuleu,GT11
+410,10,9,Suchitepéquez,GT10
+411,11,9,Escuintla,GT05
+411,11,9,Suchitepéquez,GT10
+412,12,9,Escuintla,GT05
+412,12,9,Suchitepéquez,GT10
+413,13,9,Escuintla,GT05
+413,13,9,Suchitepéquez,GT10
+414,14,9,Escuintla,GT05
+414,14,9,Suchitepéquez,GT10
+415,15,9,Escuintla,GT05
+416,16,9,Chimaltenango,GT04
+416,16,9,Escuintla,GT05
+417,17,9,Escuintla,GT05
+417,17,9,Sacatepéquez,GT03
+418,18,9,Escuintla,GT05
+419,19,9,Escuintla,GT05
+419,19,9,Guatemala,GT01
+420,20,9,Escuintla,GT05
+420,20,9,Guatemala,GT01
+420,20,9,Santa Rosa,GT06
+421,21,9,Guatemala,GT01
+421,21,9,Santa Rosa,GT06
+422,22,9,Santa Rosa,GT06
+423,23,9,Santa Rosa,GT06
+424,24,9,Jutiapa,GT22
+424,24,9,Santa Rosa,GT06
+425,25,9,Jutiapa,GT22
+425,25,9,Santa Rosa,GT06
+426,26,9,Jutiapa,GT22
+427,27,9,Jutiapa,GT22
+428,28,9,Jutiapa,GT22
+429,29,9,Jutiapa,GT22
+430,30,9,Jutiapa,GT22
+454,4,10,Retalhuleu,GT11
+454,4,10,San Marcos,GT12
+455,5,10,Retalhuleu,GT11
+456,6,10,Retalhuleu,GT11
+457,7,10,Quetzaltenango,GT09
+457,7,10,Retalhuleu,GT11
+458,8,10,Retalhuleu,GT11
+459,9,10,Retalhuleu,GT11
+460,10,10,Retalhuleu,GT11
+460,10,10,Suchitepéquez,GT10
+461,11,10,Suchitepéquez,GT10
+462,12,10,Suchitepéquez,GT10
+463,13,10,Suchitepéquez,GT10
+464,14,10,Chimaltenango,GT04
+464,14,10,Escuintla,GT05
+464,14,10,Suchitepéquez,GT10
+465,15,10,Chimaltenango,GT04
+465,15,10,Escuintla,GT05
+465,15,10,Suchitepéquez,GT10
+466,16,10,Chimaltenango,GT04
+466,16,10,Escuintla,GT05
+467,17,10,Chimaltenango,GT04
+467,17,10,Escuintla,GT05
+467,17,10,Sacatepéquez,GT03
+468,18,10,Escuintla,GT05
+468,18,10,Sacatepéquez,GT03
+469,19,10,Escuintla,GT05
+469,19,10,Guatemala,GT01
+469,19,10,Sacatepéquez,GT03
+470,20,10,Escuintla,GT05
+470,20,10,Guatemala,GT01
+471,21,10,Guatemala,GT01
+471,21,10,Santa Rosa,GT06
+472,22,10,Guatemala,GT01
+472,22,10,Santa Rosa,GT06
+473,23,10,Jalapa,GT21
+473,23,10,Santa Rosa,GT06
+474,24,10,Jalapa,GT21
+474,24,10,Santa Rosa,GT06
+475,25,10,Jalapa,GT21
+475,25,10,Jutiapa,GT22
+475,25,10,Santa Rosa,GT06
+476,26,10,Jalapa,GT21
+476,26,10,Jutiapa,GT22
+477,27,10,Jalapa,GT21
+477,27,10,Jutiapa,GT22
+478,28,10,Jalapa,GT21
+478,28,10,Jutiapa,GT22
+479,29,10,Jalapa,GT21
+479,29,10,Jutiapa,GT22
+480,30,10,Chiquimula,GT20
+480,30,10,Jutiapa,GT22
+481,31,10,Chiquimula,GT20
+481,31,10,Jutiapa,GT22
+482,32,10,Chiquimula,GT20
+503,3,11,San Marcos,GT12
+504,4,11,Quetzaltenango,GT09
+504,4,11,Retalhuleu,GT11
+504,4,11,San Marcos,GT12
+505,5,11,Quetzaltenango,GT09
+505,5,11,Retalhuleu,GT11
+505,5,11,San Marcos,GT12
+506,6,11,Quetzaltenango,GT09
+506,6,11,Retalhuleu,GT11
+507,7,11,Quetzaltenango,GT09
+507,7,11,Retalhuleu,GT11
+508,8,11,Quetzaltenango,GT09
+508,8,11,Retalhuleu,GT11
+509,9,11,Retalhuleu,GT11
+510,10,11,Retalhuleu,GT11
+510,10,11,Sololá,GT07
+510,10,11,Suchitepéquez,GT10
+511,11,11,Sololá,GT07
+511,11,11,Suchitepéquez,GT10
+512,12,11,Suchitepéquez,GT10
+513,13,11,Sololá,GT07
+513,13,11,Suchitepéquez,GT10
+514,14,11,Chimaltenango,GT04
+514,14,11,Sololá,GT07
+514,14,11,Suchitepéquez,GT10
+515,15,11,Chimaltenango,GT04
+516,16,11,Chimaltenango,GT04
+517,17,11,Chimaltenango,GT04
+517,17,11,Sacatepéquez,GT03
+518,18,11,Chimaltenango,GT04
+518,18,11,Sacatepéquez,GT03
+519,19,11,Guatemala,GT01
+519,19,11,Sacatepéquez,GT03
+520,20,11,Guatemala,GT01
+521,21,11,Guatemala,GT01
+522,22,11,Guatemala,GT01
+522,22,11,Santa Rosa,GT06
+523,23,11,Guatemala,GT01
+523,23,11,Jalapa,GT21
+523,23,11,Santa Rosa,GT06
+524,24,11,Jalapa,GT21
+525,25,11,Jalapa,GT21
+526,26,11,Jalapa,GT21
+527,27,11,Jalapa,GT21
+527,27,11,Jutiapa,GT22
+528,28,11,Jalapa,GT21
+529,29,11,Chiquimula,GT20
+529,29,11,Jalapa,GT21
+529,29,11,Jutiapa,GT22
+530,30,11,Chiquimula,GT20
+530,30,11,Jutiapa,GT22
+531,31,11,Chiquimula,GT20
+532,32,11,Chiquimula,GT20
+533,33,11,Chiquimula,GT20
+534,34,11,Chiquimula,GT20
+554,4,12,Quetzaltenango,GT09
+554,4,12,San Marcos,GT12
+555,5,12,Quetzaltenango,GT09
+555,5,12,San Marcos,GT12
+556,6,12,Quetzaltenango,GT09
+557,7,12,Quetzaltenango,GT09
+558,8,12,Quetzaltenango,GT09
+558,8,12,Retalhuleu,GT11
+559,9,12,Quetzaltenango,GT09
+559,9,12,Retalhuleu,GT11
+560,10,12,Quetzaltenango,GT09
+560,10,12,Retalhuleu,GT11
+560,10,12,Sololá,GT07
+560,10,12,Suchitepéquez,GT10
+561,11,12,Quetzaltenango,GT09
+561,11,12,Sololá,GT07
+561,11,12,Suchitepéquez,GT10
+562,12,12,Sololá,GT07
+562,12,12,Suchitepéquez,GT10
+563,13,12,Sololá,GT07
+563,13,12,Suchitepéquez,GT10
+564,14,12,Chimaltenango,GT04
+564,14,12,Sololá,GT07
+565,15,12,Chimaltenango,GT04
+565,15,12,Sololá,GT07
+566,16,12,Chimaltenango,GT04
+567,17,12,Chimaltenango,GT04
+568,18,12,Chimaltenango,GT04
+568,18,12,Guatemala,GT01
+568,18,12,Sacatepéquez,GT03
+569,19,12,Guatemala,GT01
+569,19,12,Sacatepéquez,GT03
+570,20,12,Guatemala,GT01
+571,21,12,Guatemala,GT01
+572,22,12,Guatemala,GT01
+573,23,12,El Progreso,GT02
+573,23,12,Guatemala,GT01
+573,23,12,Jalapa,GT21
+574,24,12,El Progreso,GT02
+574,24,12,Jalapa,GT21
+575,25,12,Jalapa,GT21
+576,26,12,Jalapa,GT21
+577,27,12,Jalapa,GT21
+578,28,12,Jalapa,GT21
+579,29,12,Chiquimula,GT20
+579,29,12,Jalapa,GT21
+580,30,12,Chiquimula,GT20
+581,31,12,Chiquimula,GT20
+582,32,12,Chiquimula,GT20
+583,33,12,Chiquimula,GT20
+584,34,12,Chiquimula,GT20
+604,4,13,San Marcos,GT12
+605,5,13,Quetzaltenango,GT09
+605,5,13,San Marcos,GT12
+606,6,13,Quetzaltenango,GT09
+606,6,13,San Marcos,GT12
+607,7,13,Quetzaltenango,GT09
+607,7,13,San Marcos,GT12
+608,8,13,Quetzaltenango,GT09
+608,8,13,San Marcos,GT12
+609,9,13,Quetzaltenango,GT09
+609,9,13,Retalhuleu,GT11
+610,10,13,Quetzaltenango,GT09
+611,11,13,Quetzaltenango,GT09
+611,11,13,Sololá,GT07
+611,11,13,Suchitepéquez,GT10
+612,12,13,Sololá,GT07
+613,13,13,Sololá,GT07
+614,14,13,Quiché,GT14
+614,14,13,Sololá,GT07
+615,15,13,Chimaltenango,GT04
+615,15,13,Quiché,GT14
+615,15,13,Sololá,GT07
+616,16,13,Chimaltenango,GT04
+617,17,13,Chimaltenango,GT04
+618,18,13,Chimaltenango,GT04
+618,18,13,Guatemala,GT01
+618,18,13,Sacatepéquez,GT03
+619,19,13,Chimaltenango,GT04
+619,19,13,Guatemala,GT01
+619,19,13,Sacatepéquez,GT03
+620,20,13,Guatemala,GT01
+621,21,13,Guatemala,GT01
+622,22,13,El Progreso,GT02
+622,22,13,Guatemala,GT01
+623,23,13,El Progreso,GT02
+623,23,13,Guatemala,GT01
+624,24,13,El Progreso,GT02
+624,24,13,Jalapa,GT21
+625,25,13,El Progreso,GT02
+625,25,13,Jalapa,GT21
+626,26,13,El Progreso,GT02
+626,26,13,Jalapa,GT21
+627,27,13,Jalapa,GT21
+627,27,13,Zacapa,GT19
+628,28,13,Chiquimula,GT20
+628,28,13,Jalapa,GT21
+628,28,13,Zacapa,GT19
+629,29,13,Chiquimula,GT20
+629,29,13,Jalapa,GT21
+630,30,13,Chiquimula,GT20
+631,31,13,Chiquimula,GT20
+632,32,13,Chiquimula,GT20
+633,33,13,Chiquimula,GT20
+634,34,13,Chiquimula,GT20
+654,4,14,San Marcos,GT12
+655,5,14,San Marcos,GT12
+656,6,14,San Marcos,GT12
+657,7,14,San Marcos,GT12
+658,8,14,Quetzaltenango,GT09
+658,8,14,San Marcos,GT12
+659,9,14,Quetzaltenango,GT09
+660,10,14,Quetzaltenango,GT09
+660,10,14,Totonicapán,GT08
+661,11,14,Quetzaltenango,GT09
+661,11,14,Sololá,GT07
+661,11,14,Totonicapán,GT08
+662,12,14,Sololá,GT07
+662,12,14,Totonicapán,GT08
+663,13,14,Sololá,GT07
+663,13,14,Totonicapán,GT08
+664,14,14,Quiché,GT14
+664,14,14,Sololá,GT07
+664,14,14,Totonicapán,GT08
+665,15,14,Chimaltenango,GT04
+665,15,14,Quiché,GT14
+665,15,14,Sololá,GT07
+666,16,14,Chimaltenango,GT04
+667,17,14,Chimaltenango,GT04
+668,18,14,Chimaltenango,GT04
+669,19,14,Baja Verapaz,GT15
+669,19,14,Chimaltenango,GT04
+669,19,14,Guatemala,GT01
+669,19,14,Quiché,GT14
+670,20,14,Baja Verapaz,GT15
+670,20,14,Guatemala,GT01
+671,21,14,Baja Verapaz,GT15
+671,21,14,El Progreso,GT02
+671,21,14,Guatemala,GT01
+672,22,14,Baja Verapaz,GT15
+672,22,14,El Progreso,GT02
+672,22,14,Guatemala,GT01
+673,23,14,El Progreso,GT02
+674,24,14,El Progreso,GT02
+675,25,14,El Progreso,GT02
+675,25,14,Jalapa,GT21
+676,26,14,El Progreso,GT02
+676,26,14,Jalapa,GT21
+677,27,14,El Progreso,GT02
+677,27,14,Jalapa,GT21
+677,27,14,Zacapa,GT19
+678,28,14,Chiquimula,GT20
+678,28,14,Zacapa,GT19
+679,29,14,Chiquimula,GT20
+679,29,14,Zacapa,GT19
+680,30,14,Chiquimula,GT20
+680,30,14,Zacapa,GT19
+681,31,14,Chiquimula,GT20
+681,31,14,Zacapa,GT19
+682,32,14,Chiquimula,GT20
+682,32,14,Zacapa,GT19
+683,33,14,Chiquimula,GT20
+683,33,14,Zacapa,GT19
+684,34,14,Chiquimula,GT20
+704,4,15,San Marcos,GT12
+705,5,15,San Marcos,GT12
+706,6,15,San Marcos,GT12
+707,7,15,San Marcos,GT12
+708,8,15,Quetzaltenango,GT09
+708,8,15,San Marcos,GT12
+709,9,15,Quetzaltenango,GT09
+709,9,15,San Marcos,GT12
+710,10,15,Quetzaltenango,GT09
+710,10,15,Totonicapán,GT08
+711,11,15,Totonicapán,GT08
+712,12,15,Totonicapán,GT08
+713,13,15,Quiché,GT14
+713,13,15,Totonicapán,GT08
+714,14,15,Quiché,GT14
+714,14,15,Totonicapán,GT08
+715,15,15,Chimaltenango,GT04
+715,15,15,Quiché,GT14
+716,16,15,Chimaltenango,GT04
+716,16,15,Quiché,GT14
+717,17,15,Chimaltenango,GT04
+717,17,15,Quiché,GT14
+718,18,15,Chimaltenango,GT04
+718,18,15,Quiché,GT14
+719,19,15,Baja Verapaz,GT15
+719,19,15,Chimaltenango,GT04
+719,19,15,Quiché,GT14
+720,20,15,Baja Verapaz,GT15
+721,21,15,Baja Verapaz,GT15
+721,21,15,Guatemala,GT01
+722,22,15,Baja Verapaz,GT15
+722,22,15,El Progreso,GT02
+723,23,15,Baja Verapaz,GT15
+723,23,15,El Progreso,GT02
+724,24,15,El Progreso,GT02
+725,25,15,El Progreso,GT02
+726,26,15,El Progreso,GT02
+727,27,15,El Progreso,GT02
+727,27,15,Zacapa,GT19
+728,28,15,Zacapa,GT19
+729,29,15,Zacapa,GT19
+730,30,15,Zacapa,GT19
+731,31,15,Chiquimula,GT20
+731,31,15,Zacapa,GT19
+732,32,15,Chiquimula,GT20
+732,32,15,Zacapa,GT19
+733,33,15,Chiquimula,GT20
+733,33,15,Zacapa,GT19
+734,34,15,Chiquimula,GT20
+734,34,15,Zacapa,GT19
+754,4,16,San Marcos,GT12
+755,5,16,San Marcos,GT12
+756,6,16,San Marcos,GT12
+757,7,16,San Marcos,GT12
+758,8,16,Quetzaltenango,GT09
+758,8,16,San Marcos,GT12
+759,9,16,Quetzaltenango,GT09
+759,9,16,San Marcos,GT12
+760,10,16,Quetzaltenango,GT09
+760,10,16,Totonicapán,GT08
+761,11,16,Totonicapán,GT08
+762,12,16,Totonicapán,GT08
+763,13,16,Quiché,GT14
+763,13,16,Totonicapán,GT08
+764,14,16,Quiché,GT14
+765,15,16,Quiché,GT14
+766,16,16,Quiché,GT14
+767,17,16,Quiché,GT14
+768,18,16,Baja Verapaz,GT15
+768,18,16,Quiché,GT14
+769,19,16,Baja Verapaz,GT15
+769,19,16,Quiché,GT14
+770,20,16,Baja Verapaz,GT15
+771,21,16,Baja Verapaz,GT15
+772,22,16,Baja Verapaz,GT15
+773,23,16,Baja Verapaz,GT15
+773,23,16,El Progreso,GT02
+774,24,16,Baja Verapaz,GT15
+774,24,16,El Progreso,GT02
+775,25,16,Baja Verapaz,GT15
+775,25,16,El Progreso,GT02
+776,26,16,El Progreso,GT02
+777,27,16,El Progreso,GT02
+777,27,16,Zacapa,GT19
+778,28,16,El Progreso,GT02
+778,28,16,Zacapa,GT19
+779,29,16,Zacapa,GT19
+780,30,16,Zacapa,GT19
+781,31,16,Zacapa,GT19
+782,32,16,Zacapa,GT19
+783,33,16,Zacapa,GT19
+784,34,16,Izabal,GT18
+784,34,16,Zacapa,GT19
+785,35,16,Izabal,GT18
+804,4,17,San Marcos,GT12
+805,5,17,San Marcos,GT12
+806,6,17,San Marcos,GT12
+807,7,17,San Marcos,GT12
+808,8,17,Quetzaltenango,GT09
+808,8,17,San Marcos,GT12
+809,9,17,Quetzaltenango,GT09
+809,9,17,San Marcos,GT12
+810,10,17,Huehuetenango,GT13
+810,10,17,Quetzaltenango,GT09
+810,10,17,San Marcos,GT12
+810,10,17,Totonicapán,GT08
+811,11,17,Huehuetenango,GT13
+811,11,17,Totonicapán,GT08
+812,12,17,Huehuetenango,GT13
+812,12,17,Quiché,GT14
+812,12,17,Totonicapán,GT08
+813,13,17,Quiché,GT14
+813,13,17,Totonicapán,GT08
+814,14,17,Quiché,GT14
+815,15,17,Quiché,GT14
+816,16,17,Quiché,GT14
+817,17,17,Baja Verapaz,GT15
+817,17,17,Quiché,GT14
+818,18,17,Baja Verapaz,GT15
+818,18,17,Quiché,GT14
+819,19,17,Baja Verapaz,GT15
+820,20,17,Baja Verapaz,GT15
+821,21,17,Baja Verapaz,GT15
+822,22,17,Baja Verapaz,GT15
+823,23,17,Baja Verapaz,GT15
+824,24,17,Baja Verapaz,GT15
+825,25,17,Baja Verapaz,GT15
+825,25,17,El Progreso,GT02
+826,26,17,Baja Verapaz,GT15
+826,26,17,El Progreso,GT02
+827,27,17,Alta Verapaz,GT16
+827,27,17,Baja Verapaz,GT15
+827,27,17,El Progreso,GT02
+827,27,17,Zacapa,GT19
+828,28,17,Alta Verapaz,GT16
+828,28,17,Zacapa,GT19
+829,29,17,Alta Verapaz,GT16
+829,29,17,Izabal,GT18
+829,29,17,Zacapa,GT19
+830,30,17,Izabal,GT18
+830,30,17,Zacapa,GT19
+831,31,17,Izabal,GT18
+831,31,17,Zacapa,GT19
+832,32,17,Zacapa,GT19
+833,33,17,Izabal,GT18
+833,33,17,Zacapa,GT19
+834,34,17,Izabal,GT18
+834,34,17,Zacapa,GT19
+835,35,17,Izabal,GT18
+836,36,17,Izabal,GT18
+837,37,17,Izabal,GT18
+853,3,18,San Marcos,GT12
+854,4,18,San Marcos,GT12
+855,5,18,Huehuetenango,GT13
+855,5,18,San Marcos,GT12
+856,6,18,Huehuetenango,GT13
+856,6,18,San Marcos,GT12
+857,7,18,San Marcos,GT12
+858,8,18,San Marcos,GT12
+859,9,18,Huehuetenango,GT13
+859,9,18,San Marcos,GT12
+860,10,18,Huehuetenango,GT13
+860,10,18,Quetzaltenango,GT09
+860,10,18,San Marcos,GT12
+861,11,18,Huehuetenango,GT13
+862,12,18,Huehuetenango,GT13
+862,12,18,Quiché,GT14
+862,12,18,Totonicapán,GT08
+863,13,18,Huehuetenango,GT13
+863,13,18,Quiché,GT14
+864,14,18,Huehuetenango,GT13
+864,14,18,Quiché,GT14
+865,15,18,Quiché,GT14
+866,16,18,Quiché,GT14
+867,17,18,Baja Verapaz,GT15
+867,17,18,Quiché,GT14
+868,18,18,Baja Verapaz,GT15
+868,18,18,Quiché,GT14
+869,19,18,Baja Verapaz,GT15
+869,19,18,Quiché,GT14
+870,20,18,Baja Verapaz,GT15
+870,20,18,Quiché,GT14
+871,21,18,Alta Verapaz,GT16
+871,21,18,Baja Verapaz,GT15
+871,21,18,Quiché,GT14
+872,22,18,Alta Verapaz,GT16
+872,22,18,Baja Verapaz,GT15
+873,23,18,Alta Verapaz,GT16
+873,23,18,Baja Verapaz,GT15
+874,24,18,Alta Verapaz,GT16
+874,24,18,Baja Verapaz,GT15
+875,25,18,Alta Verapaz,GT16
+875,25,18,Baja Verapaz,GT15
+876,26,18,Alta Verapaz,GT16
+876,26,18,Baja Verapaz,GT15
+877,27,18,Alta Verapaz,GT16
+877,27,18,Baja Verapaz,GT15
+878,28,18,Alta Verapaz,GT16
+879,29,18,Alta Verapaz,GT16
+879,29,18,Izabal,GT18
+880,30,18,Alta Verapaz,GT16
+880,30,18,Izabal,GT18
+881,31,18,Izabal,GT18
+881,31,18,Zacapa,GT19
+882,32,18,Izabal,GT18
+882,32,18,Zacapa,GT19
+883,33,18,Izabal,GT18
+883,33,18,Zacapa,GT19
+884,34,18,Izabal,GT18
+884,34,18,Zacapa,GT19
+885,35,18,Izabal,GT18
+886,36,18,Izabal,GT18
+887,37,18,Izabal,GT18
+888,38,18,Izabal,GT18
+904,4,19,San Marcos,GT12
+905,5,19,Huehuetenango,GT13
+905,5,19,San Marcos,GT12
+906,6,19,Huehuetenango,GT13
+906,6,19,San Marcos,GT12
+907,7,19,Huehuetenango,GT13
+907,7,19,San Marcos,GT12
+908,8,19,Huehuetenango,GT13
+908,8,19,San Marcos,GT12
+909,9,19,Huehuetenango,GT13
+909,9,19,San Marcos,GT12
+910,10,19,Huehuetenango,GT13
+911,11,19,Huehuetenango,GT13
+912,12,19,Huehuetenango,GT13
+913,13,19,Huehuetenango,GT13
+913,13,19,Quiché,GT14
+914,14,19,Huehuetenango,GT13
+914,14,19,Quiché,GT14
+915,15,19,Quiché,GT14
+916,16,19,Quiché,GT14
+917,17,19,Quiché,GT14
+918,18,19,Alta Verapaz,GT16
+918,18,19,Baja Verapaz,GT15
+918,18,19,Quiché,GT14
+919,19,19,Alta Verapaz,GT16
+919,19,19,Baja Verapaz,GT15
+919,19,19,Quiché,GT14
+920,20,19,Alta Verapaz,GT16
+920,20,19,Quiché,GT14
+921,21,19,Alta Verapaz,GT16
+921,21,19,Quiché,GT14
+922,22,19,Alta Verapaz,GT16
+923,23,19,Alta Verapaz,GT16
+924,24,19,Alta Verapaz,GT16
+925,25,19,Alta Verapaz,GT16
+926,26,19,Alta Verapaz,GT16
+926,26,19,Baja Verapaz,GT15
+927,27,19,Alta Verapaz,GT16
+927,27,19,Baja Verapaz,GT15
+928,28,19,Alta Verapaz,GT16
+929,29,19,Alta Verapaz,GT16
+930,30,19,Alta Verapaz,GT16
+930,30,19,Izabal,GT18
+931,31,19,Izabal,GT18
+932,32,19,Izabal,GT18
+933,33,19,Izabal,GT18
+934,34,19,Izabal,GT18
+935,35,19,Izabal,GT18
+936,36,19,Izabal,GT18
+937,37,19,Izabal,GT18
+938,38,19,Izabal,GT18
+939,39,19,Izabal,GT18
+954,4,20,Huehuetenango,GT13
+954,4,20,San Marcos,GT12
+955,5,20,Huehuetenango,GT13
+955,5,20,San Marcos,GT12
+956,6,20,Huehuetenango,GT13
+957,7,20,Huehuetenango,GT13
+958,8,20,Huehuetenango,GT13
+959,9,20,Huehuetenango,GT13
+960,10,20,Huehuetenango,GT13
+961,11,20,Huehuetenango,GT13
+962,12,20,Huehuetenango,GT13
+962,12,20,Quiché,GT14
+963,13,20,Huehuetenango,GT13
+963,13,20,Quiché,GT14
+964,14,20,Quiché,GT14
+965,15,20,Quiché,GT14
+966,16,20,Quiché,GT14
+967,17,20,Quiché,GT14
+968,18,20,Alta Verapaz,GT16
+968,18,20,Quiché,GT14
+969,19,20,Alta Verapaz,GT16
+969,19,20,Quiché,GT14
+970,20,20,Alta Verapaz,GT16
+971,21,20,Alta Verapaz,GT16
+972,22,20,Alta Verapaz,GT16
+973,23,20,Alta Verapaz,GT16
+974,24,20,Alta Verapaz,GT16
+975,25,20,Alta Verapaz,GT16
+976,26,20,Alta Verapaz,GT16
+977,27,20,Alta Verapaz,GT16
+978,28,20,Alta Verapaz,GT16
+979,29,20,Alta Verapaz,GT16
+980,30,20,Alta Verapaz,GT16
+980,30,20,Izabal,GT18
+981,31,20,Izabal,GT18
+982,32,20,Izabal,GT18
+983,33,20,Izabal,GT18
+984,34,20,Izabal,GT18
+985,35,20,Izabal,GT18
+986,36,20,Izabal,GT18
+987,37,20,Izabal,GT18
+988,38,20,Izabal,GT18
+989,39,20,Izabal,GT18
+990,40,20,Izabal,GT18
+991,41,20,Izabal,GT18
+1005,5,21,Huehuetenango,GT13
+1006,6,21,Huehuetenango,GT13
+1007,7,21,Huehuetenango,GT13
+1008,8,21,Huehuetenango,GT13
+1009,9,21,Huehuetenango,GT13
+1010,10,21,Huehuetenango,GT13
+1011,11,21,Huehuetenango,GT13
+1012,12,21,Huehuetenango,GT13
+1012,12,21,Quiché,GT14
+1013,13,21,Huehuetenango,GT13
+1013,13,21,Quiché,GT14
+1014,14,21,Quiché,GT14
+1015,15,21,Quiché,GT14
+1016,16,21,Quiché,GT14
+1017,17,21,Quiché,GT14
+1018,18,21,Quiché,GT14
+1019,19,21,Alta Verapaz,GT16
+1019,19,21,Quiché,GT14
+1020,20,21,Alta Verapaz,GT16
+1021,21,21,Alta Verapaz,GT16
+1022,22,21,Alta Verapaz,GT16
+1023,23,21,Alta Verapaz,GT16
+1024,24,21,Alta Verapaz,GT16
+1025,25,21,Alta Verapaz,GT16
+1026,26,21,Alta Verapaz,GT16
+1027,27,21,Alta Verapaz,GT16
+1028,28,21,Alta Verapaz,GT16
+1029,29,21,Alta Verapaz,GT16
+1030,30,21,Alta Verapaz,GT16
+1030,30,21,Izabal,GT18
+1031,31,21,Izabal,GT18
+1032,32,21,Izabal,GT18
+1033,33,21,Izabal,GT18
+1034,34,21,Izabal,GT18
+1035,35,21,Izabal,GT18
+1036,36,21,Izabal,GT18
+1037,37,21,Izabal,GT18
+1038,38,21,Izabal,GT18
+1039,39,21,Izabal,GT18
+1040,40,21,Izabal,GT18
+1041,41,21,Izabal,GT18
+1042,42,21,Izabal,GT18
+1055,5,22,Huehuetenango,GT13
+1056,6,22,Huehuetenango,GT13
+1057,7,22,Huehuetenango,GT13
+1058,8,22,Huehuetenango,GT13
+1059,9,22,Huehuetenango,GT13
+1060,10,22,Huehuetenango,GT13
+1061,11,22,Huehuetenango,GT13
+1062,12,22,Huehuetenango,GT13
+1063,13,22,Huehuetenango,GT13
+1063,13,22,Quiché,GT14
+1064,14,22,Huehuetenango,GT13
+1064,14,22,Quiché,GT14
+1065,15,22,Quiché,GT14
+1066,16,22,Quiché,GT14
+1067,17,22,Quiché,GT14
+1068,18,22,Alta Verapaz,GT16
+1068,18,22,Quiché,GT14
+1069,19,22,Alta Verapaz,GT16
+1069,19,22,Quiché,GT14
+1070,20,22,Alta Verapaz,GT16
+1071,21,22,Alta Verapaz,GT16
+1072,22,22,Alta Verapaz,GT16
+1073,23,22,Alta Verapaz,GT16
+1074,24,22,Alta Verapaz,GT16
+1075,25,22,Alta Verapaz,GT16
+1076,26,22,Alta Verapaz,GT16
+1077,27,22,Alta Verapaz,GT16
+1078,28,22,Alta Verapaz,GT16
+1079,29,22,Alta Verapaz,GT16
+1080,30,22,Alta Verapaz,GT16
+1080,30,22,Izabal,GT18
+1081,31,22,Alta Verapaz,GT16
+1081,31,22,Izabal,GT18
+1082,32,22,Izabal,GT18
+1083,33,22,Izabal,GT18
+1084,34,22,Izabal,GT18
+1085,35,22,Izabal,GT18
+1086,36,22,Izabal,GT18
+1087,37,22,Izabal,GT18
+1088,38,22,Izabal,GT18
+1089,39,22,Izabal,GT18
+1090,40,22,Izabal,GT18
+1091,41,22,Izabal,GT18
+1092,42,22,Izabal,GT18
+1093,43,22,Izabal,GT18
+1106,6,23,Huehuetenango,GT13
+1107,7,23,Huehuetenango,GT13
+1108,8,23,Huehuetenango,GT13
+1109,9,23,Huehuetenango,GT13
+1110,10,23,Huehuetenango,GT13
+1111,11,23,Huehuetenango,GT13
+1112,12,23,Huehuetenango,GT13
+1113,13,23,Huehuetenango,GT13
+1114,14,23,Huehuetenango,GT13
+1114,14,23,Quiché,GT14
+1115,15,23,Quiché,GT14
+1116,16,23,Quiché,GT14
+1117,17,23,Alta Verapaz,GT16
+1117,17,23,Quiché,GT14
+1118,18,23,Alta Verapaz,GT16
+1118,18,23,Quiché,GT14
+1119,19,23,Alta Verapaz,GT16
+1120,20,23,Alta Verapaz,GT16
+1121,21,23,Alta Verapaz,GT16
+1122,22,23,Alta Verapaz,GT16
+1123,23,23,Alta Verapaz,GT16
+1124,24,23,Alta Verapaz,GT16
+1125,25,23,Alta Verapaz,GT16
+1126,26,23,Alta Verapaz,GT16
+1127,27,23,Alta Verapaz,GT16
+1128,28,23,Alta Verapaz,GT16
+1129,29,23,Alta Verapaz,GT16
+1130,30,23,Alta Verapaz,GT16
+1131,31,23,Alta Verapaz,GT16
+1131,31,23,Izabal,GT18
+1132,32,23,Izabal,GT18
+1133,33,23,Izabal,GT18
+1134,34,23,Izabal,GT18
+1135,35,23,Izabal,GT18
+1136,36,23,Izabal,GT18
+1137,37,23,Izabal,GT18
+1138,38,23,Izabal,GT18
+1139,39,23,Izabal,GT18
+1140,40,23,Izabal,GT18
+1141,41,23,Izabal,GT18
+1142,42,23,Izabal,GT18
+1143,43,23,Izabal,GT18
+1157,7,24,Huehuetenango,GT13
+1158,8,24,Huehuetenango,GT13
+1159,9,24,Huehuetenango,GT13
+1160,10,24,Huehuetenango,GT13
+1161,11,24,Huehuetenango,GT13
+1162,12,24,Huehuetenango,GT13
+1163,13,24,Huehuetenango,GT13
+1164,14,24,Huehuetenango,GT13
+1164,14,24,Quiché,GT14
+1165,15,24,Huehuetenango,GT13
+1165,15,24,Quiché,GT14
+1166,16,24,Quiché,GT14
+1167,17,24,Quiché,GT14
+1168,18,24,Alta Verapaz,GT16
+1168,18,24,Quiché,GT14
+1169,19,24,Alta Verapaz,GT16
+1170,20,24,Alta Verapaz,GT16
+1171,21,24,Alta Verapaz,GT16
+1172,22,24,Alta Verapaz,GT16
+1173,23,24,Alta Verapaz,GT16
+1174,24,24,Alta Verapaz,GT16
+1175,25,24,Alta Verapaz,GT16
+1176,26,24,Alta Verapaz,GT16
+1177,27,24,Alta Verapaz,GT16
+1178,28,24,Alta Verapaz,GT16
+1179,29,24,Alta Verapaz,GT16
+1180,30,24,Alta Verapaz,GT16
+1180,30,24,Petén,GT17
+1181,31,24,Alta Verapaz,GT16
+1181,31,24,Izabal,GT18
+1181,31,24,Petén,GT17
+1182,32,24,Izabal,GT18
+1182,32,24,Petén,GT17
+1183,33,24,Izabal,GT18
+1183,33,24,Petén,GT17
+1184,34,24,Izabal,GT18
+1185,35,24,Izabal,GT18
+1186,36,24,Izabal,GT18
+1187,37,24,Izabal,GT18
+1188,38,24,Izabal,GT18
+1190,40,24,Izabal,GT18
+1191,41,24,Izabal,GT18
+1192,42,24,Izabal,GT18
+1207,7,25,Huehuetenango,GT13
+1208,8,25,Huehuetenango,GT13
+1209,9,25,Huehuetenango,GT13
+1210,10,25,Huehuetenango,GT13
+1211,11,25,Huehuetenango,GT13
+1212,12,25,Huehuetenango,GT13
+1213,13,25,Huehuetenango,GT13
+1214,14,25,Huehuetenango,GT13
+1214,14,25,Quiché,GT14
+1215,15,25,Huehuetenango,GT13
+1215,15,25,Quiché,GT14
+1216,16,25,Quiché,GT14
+1217,17,25,Quiché,GT14
+1218,18,25,Alta Verapaz,GT16
+1218,18,25,Quiché,GT14
+1219,19,25,Alta Verapaz,GT16
+1219,19,25,Quiché,GT14
+1220,20,25,Alta Verapaz,GT16
+1220,20,25,Quiché,GT14
+1221,21,25,Alta Verapaz,GT16
+1221,21,25,Quiché,GT14
+1222,22,25,Alta Verapaz,GT16
+1223,23,25,Alta Verapaz,GT16
+1224,24,25,Alta Verapaz,GT16
+1225,25,25,Alta Verapaz,GT16
+1225,25,25,Petén,GT17
+1226,26,25,Alta Verapaz,GT16
+1226,26,25,Petén,GT17
+1227,27,25,Alta Verapaz,GT16
+1227,27,25,Petén,GT17
+1228,28,25,Alta Verapaz,GT16
+1228,28,25,Petén,GT17
+1229,29,25,Alta Verapaz,GT16
+1229,29,25,Petén,GT17
+1230,30,25,Alta Verapaz,GT16
+1230,30,25,Petén,GT17
+1231,31,25,Petén,GT17
+1232,32,25,Izabal,GT18
+1232,32,25,Petén,GT17
+1233,33,25,Izabal,GT18
+1233,33,25,Petén,GT17
+1234,34,25,Izabal,GT18
+1235,35,25,Izabal,GT18
+1236,36,25,Izabal,GT18
+1239,39,25,Izabal,GT18
+1240,40,25,Izabal,GT18
+1258,8,26,Huehuetenango,GT13
+1259,9,26,Huehuetenango,GT13
+1260,10,26,Huehuetenango,GT13
+1261,11,26,Huehuetenango,GT13
+1262,12,26,Huehuetenango,GT13
+1263,13,26,Huehuetenango,GT13
+1264,14,26,Huehuetenango,GT13
+1264,14,26,Quiché,GT14
+1265,15,26,Quiché,GT14
+1266,16,26,Quiché,GT14
+1267,17,26,Quiché,GT14
+1268,18,26,Alta Verapaz,GT16
+1268,18,26,Quiché,GT14
+1269,19,26,Alta Verapaz,GT16
+1269,19,26,Quiché,GT14
+1270,20,26,Alta Verapaz,GT16
+1270,20,26,Quiché,GT14
+1271,21,26,Alta Verapaz,GT16
+1271,21,26,Petén,GT17
+1271,21,26,Quiché,GT14
+1272,22,26,Alta Verapaz,GT16
+1272,22,26,Petén,GT17
+1273,23,26,Alta Verapaz,GT16
+1273,23,26,Petén,GT17
+1274,24,26,Alta Verapaz,GT16
+1274,24,26,Petén,GT17
+1275,25,26,Alta Verapaz,GT16
+1275,25,26,Petén,GT17
+1276,26,26,Alta Verapaz,GT16
+1276,26,26,Petén,GT17
+1277,27,26,Petén,GT17
+1278,28,26,Petén,GT17
+1279,29,26,Alta Verapaz,GT16
+1279,29,26,Petén,GT17
+1280,30,26,Alta Verapaz,GT16
+1280,30,26,Petén,GT17
+1281,31,26,Petén,GT17
+1282,32,26,Petén,GT17
+1283,33,26,Petén,GT17
+1321,21,27,Petén,GT17
+1322,22,27,Petén,GT17
+1323,23,27,Petén,GT17
+1324,24,27,Petén,GT17
+1325,25,27,Petén,GT17
+1326,26,27,Petén,GT17
+1327,27,27,Petén,GT17
+1328,28,27,Petén,GT17
+1329,29,27,Petén,GT17
+1330,30,27,Petén,GT17
+1331,31,27,Petén,GT17
+1332,32,27,Petén,GT17
+1333,33,27,Petén,GT17
+1371,21,28,Petén,GT17
+1372,22,28,Petén,GT17
+1373,23,28,Petén,GT17
+1374,24,28,Petén,GT17
+1375,25,28,Petén,GT17
+1376,26,28,Petén,GT17
+1377,27,28,Petén,GT17
+1378,28,28,Petén,GT17
+1379,29,28,Petén,GT17
+1380,30,28,Petén,GT17
+1381,31,28,Petén,GT17
+1382,32,28,Petén,GT17
+1383,33,28,Petén,GT17
+1421,21,29,Petén,GT17
+1422,22,29,Petén,GT17
+1423,23,29,Petén,GT17
+1424,24,29,Petén,GT17
+1425,25,29,Petén,GT17
+1426,26,29,Petén,GT17
+1427,27,29,Petén,GT17
+1428,28,29,Petén,GT17
+1429,29,29,Petén,GT17
+1430,30,29,Petén,GT17
+1431,31,29,Petén,GT17
+1432,32,29,Petén,GT17
+1433,33,29,Petén,GT17
+1434,34,29,Petén,GT17
+1469,19,30,Petén,GT17
+1470,20,30,Petén,GT17
+1471,21,30,Petén,GT17
+1472,22,30,Petén,GT17
+1473,23,30,Petén,GT17
+1474,24,30,Petén,GT17
+1475,25,30,Petén,GT17
+1476,26,30,Petén,GT17
+1477,27,30,Petén,GT17
+1478,28,30,Petén,GT17
+1479,29,30,Petén,GT17
+1480,30,30,Petén,GT17
+1481,31,30,Petén,GT17
+1482,32,30,Petén,GT17
+1483,33,30,Petén,GT17
+1484,34,30,Petén,GT17
+1519,19,31,Petén,GT17
+1520,20,31,Petén,GT17
+1521,21,31,Petén,GT17
+1522,22,31,Petén,GT17
+1523,23,31,Petén,GT17
+1524,24,31,Petén,GT17
+1525,25,31,Petén,GT17
+1526,26,31,Petén,GT17
+1527,27,31,Petén,GT17
+1528,28,31,Petén,GT17
+1529,29,31,Petén,GT17
+1530,30,31,Petén,GT17
+1531,31,31,Petén,GT17
+1532,32,31,Petén,GT17
+1533,33,31,Petén,GT17
+1534,34,31,Petén,GT17
+1569,19,32,Petén,GT17
+1570,20,32,Petén,GT17
+1571,21,32,Petén,GT17
+1572,22,32,Petén,GT17
+1573,23,32,Petén,GT17
+1574,24,32,Petén,GT17
+1575,25,32,Petén,GT17
+1576,26,32,Petén,GT17
+1577,27,32,Petén,GT17
+1578,28,32,Petén,GT17
+1579,29,32,Petén,GT17
+1580,30,32,Petén,GT17
+1581,31,32,Petén,GT17
+1582,32,32,Petén,GT17
+1583,33,32,Petén,GT17
+1584,34,32,Petén,GT17
+1617,17,33,Petén,GT17
+1618,18,33,Petén,GT17
+1619,19,33,Petén,GT17
+1620,20,33,Petén,GT17
+1621,21,33,Petén,GT17
+1622,22,33,Petén,GT17
+1623,23,33,Petén,GT17
+1624,24,33,Petén,GT17
+1625,25,33,Petén,GT17
+1626,26,33,Petén,GT17
+1627,27,33,Petén,GT17
+1628,28,33,Petén,GT17
+1629,29,33,Petén,GT17
+1630,30,33,Petén,GT17
+1631,31,33,Petén,GT17
+1632,32,33,Petén,GT17
+1633,33,33,Petén,GT17
+1634,34,33,Petén,GT17
+1665,15,34,Petén,GT17
+1666,16,34,Petén,GT17
+1667,17,34,Petén,GT17
+1668,18,34,Petén,GT17
+1669,19,34,Petén,GT17
+1670,20,34,Petén,GT17
+1671,21,34,Petén,GT17
+1672,22,34,Petén,GT17
+1673,23,34,Petén,GT17
+1674,24,34,Petén,GT17
+1675,25,34,Petén,GT17
+1676,26,34,Petén,GT17
+1677,27,34,Petén,GT17
+1678,28,34,Petén,GT17
+1679,29,34,Petén,GT17
+1680,30,34,Petén,GT17
+1681,31,34,Petén,GT17
+1682,32,34,Petén,GT17
+1683,33,34,Petén,GT17
+1684,34,34,Petén,GT17
+1714,14,35,Petén,GT17
+1715,15,35,Petén,GT17
+1716,16,35,Petén,GT17
+1717,17,35,Petén,GT17
+1718,18,35,Petén,GT17
+1719,19,35,Petén,GT17
+1720,20,35,Petén,GT17
+1721,21,35,Petén,GT17
+1722,22,35,Petén,GT17
+1723,23,35,Petén,GT17
+1724,24,35,Petén,GT17
+1725,25,35,Petén,GT17
+1726,26,35,Petén,GT17
+1727,27,35,Petén,GT17
+1728,28,35,Petén,GT17
+1729,29,35,Petén,GT17
+1730,30,35,Petén,GT17
+1731,31,35,Petén,GT17
+1732,32,35,Petén,GT17
+1733,33,35,Petén,GT17
+1734,34,35,Petén,GT17
+1763,13,36,Petén,GT17
+1764,14,36,Petén,GT17
+1765,15,36,Petén,GT17
+1766,16,36,Petén,GT17
+1767,17,36,Petén,GT17
+1768,18,36,Petén,GT17
+1769,19,36,Petén,GT17
+1770,20,36,Petén,GT17
+1771,21,36,Petén,GT17
+1772,22,36,Petén,GT17
+1773,23,36,Petén,GT17
+1774,24,36,Petén,GT17
+1775,25,36,Petén,GT17
+1776,26,36,Petén,GT17
+1777,27,36,Petén,GT17
+1778,28,36,Petén,GT17
+1779,29,36,Petén,GT17
+1780,30,36,Petén,GT17
+1781,31,36,Petén,GT17
+1782,32,36,Petén,GT17
+1783,33,36,Petén,GT17
+1784,34,36,Petén,GT17
+1812,12,37,Petén,GT17
+1813,13,37,Petén,GT17
+1814,14,37,Petén,GT17
+1815,15,37,Petén,GT17
+1816,16,37,Petén,GT17
+1817,17,37,Petén,GT17
+1818,18,37,Petén,GT17
+1819,19,37,Petén,GT17
+1820,20,37,Petén,GT17
+1821,21,37,Petén,GT17
+1822,22,37,Petén,GT17
+1823,23,37,Petén,GT17
+1824,24,37,Petén,GT17
+1825,25,37,Petén,GT17
+1826,26,37,Petén,GT17
+1827,27,37,Petén,GT17
+1828,28,37,Petén,GT17
+1829,29,37,Petén,GT17
+1830,30,37,Petén,GT17
+1831,31,37,Petén,GT17
+1832,32,37,Petén,GT17
+1833,33,37,Petén,GT17
+1834,34,37,Petén,GT17
+1861,11,38,Petén,GT17
+1862,12,38,Petén,GT17
+1863,13,38,Petén,GT17
+1864,14,38,Petén,GT17
+1865,15,38,Petén,GT17
+1866,16,38,Petén,GT17
+1867,17,38,Petén,GT17
+1868,18,38,Petén,GT17
+1869,19,38,Petén,GT17
+1870,20,38,Petén,GT17
+1871,21,38,Petén,GT17
+1872,22,38,Petén,GT17
+1873,23,38,Petén,GT17
+1874,24,38,Petén,GT17
+1875,25,38,Petén,GT17
+1876,26,38,Petén,GT17
+1877,27,38,Petén,GT17
+1878,28,38,Petén,GT17
+1879,29,38,Petén,GT17
+1880,30,38,Petén,GT17
+1881,31,38,Petén,GT17
+1882,32,38,Petén,GT17
+1883,33,38,Petén,GT17
+1884,34,38,Petén,GT17
+1916,16,39,Petén,GT17
+1917,17,39,Petén,GT17
+1918,18,39,Petén,GT17
+1919,19,39,Petén,GT17
+1920,20,39,Petén,GT17
+1921,21,39,Petén,GT17
+1922,22,39,Petén,GT17
+1923,23,39,Petén,GT17
+1924,24,39,Petén,GT17
+1925,25,39,Petén,GT17
+1926,26,39,Petén,GT17
+1927,27,39,Petén,GT17
+1928,28,39,Petén,GT17
+1929,29,39,Petén,GT17
+1930,30,39,Petén,GT17
+1931,31,39,Petén,GT17
+1932,32,39,Petén,GT17
+1933,33,39,Petén,GT17
+1934,34,39,Petén,GT17
+1966,16,40,Petén,GT17
+1967,17,40,Petén,GT17
+1968,18,40,Petén,GT17
+1969,19,40,Petén,GT17
+1970,20,40,Petén,GT17
+1971,21,40,Petén,GT17
+1972,22,40,Petén,GT17
+1973,23,40,Petén,GT17
+1974,24,40,Petén,GT17
+1975,25,40,Petén,GT17
+1976,26,40,Petén,GT17
+1977,27,40,Petén,GT17
+1978,28,40,Petén,GT17
+1979,29,40,Petén,GT17
+1980,30,40,Petén,GT17
+1981,31,40,Petén,GT17
+1982,32,40,Petén,GT17
+1983,33,40,Petén,GT17
+1984,34,40,Petén,GT17
+2016,16,41,Petén,GT17
+2017,17,41,Petén,GT17
+2018,18,41,Petén,GT17
+2019,19,41,Petén,GT17
+2020,20,41,Petén,GT17
+2021,21,41,Petén,GT17
+2022,22,41,Petén,GT17
+2023,23,41,Petén,GT17
+2024,24,41,Petén,GT17
+2025,25,41,Petén,GT17
+2026,26,41,Petén,GT17
+2027,27,41,Petén,GT17
+2028,28,41,Petén,GT17
+2029,29,41,Petén,GT17
+2030,30,41,Petén,GT17
+2031,31,41,Petén,GT17
+2032,32,41,Petén,GT17
+2033,33,41,Petén,GT17
+2034,34,41,Petén,GT17
+2066,16,42,Petén,GT17
+2067,17,42,Petén,GT17
+2068,18,42,Petén,GT17
+2069,19,42,Petén,GT17
+2070,20,42,Petén,GT17
+2071,21,42,Petén,GT17
+2072,22,42,Petén,GT17
+2073,23,42,Petén,GT17
+2074,24,42,Petén,GT17
+2075,25,42,Petén,GT17
+2076,26,42,Petén,GT17
+2077,27,42,Petén,GT17
+2078,28,42,Petén,GT17
+2079,29,42,Petén,GT17
+2080,30,42,Petén,GT17
+2081,31,42,Petén,GT17
+2082,32,42,Petén,GT17
+2083,33,42,Petén,GT17
+2084,34,42,Petén,GT17
+2116,16,43,Petén,GT17
+2117,17,43,Petén,GT17
+2118,18,43,Petén,GT17
+2119,19,43,Petén,GT17
+2120,20,43,Petén,GT17
+2121,21,43,Petén,GT17
+2122,22,43,Petén,GT17
+2123,23,43,Petén,GT17
+2124,24,43,Petén,GT17
+2125,25,43,Petén,GT17
+2126,26,43,Petén,GT17
+2127,27,43,Petén,GT17
+2128,28,43,Petén,GT17
+2129,29,43,Petén,GT17
+2130,30,43,Petén,GT17
+2131,31,43,Petén,GT17
+2132,32,43,Petén,GT17
+2133,33,43,Petén,GT17
+2134,34,43,Petén,GT17
+2166,16,44,Petén,GT17
+2167,17,44,Petén,GT17
+2168,18,44,Petén,GT17
+2169,19,44,Petén,GT17
+2170,20,44,Petén,GT17
+2171,21,44,Petén,GT17
+2172,22,44,Petén,GT17
+2173,23,44,Petén,GT17
+2174,24,44,Petén,GT17
+2175,25,44,Petén,GT17
+2176,26,44,Petén,GT17
+2177,27,44,Petén,GT17
+2178,28,44,Petén,GT17
+2179,29,44,Petén,GT17
+2180,30,44,Petén,GT17
+2181,31,44,Petén,GT17
+2182,32,44,Petén,GT17
+2183,33,44,Petén,GT17
+2184,34,44,Petén,GT17
